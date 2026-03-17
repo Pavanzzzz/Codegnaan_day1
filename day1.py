@@ -1,0 +1,5 @@
+print("wat upp?")
+print("--------")
+print("My name is Maximus Decimus Meridius")
+print("Father to a murdered son , husband to\na murdered wife,")
+print("I'll have my vengance in this life or the next.")
