@@ -55,8 +55,8 @@ print(list_1)'''
 
 list = [1,2,3,4,['pavan']]
 list.remove(list[4])
-list.pop(1)
-print(list)
+print(list.pop(1))
+#print(list)
 
 
 
