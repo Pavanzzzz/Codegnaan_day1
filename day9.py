@@ -29,12 +29,14 @@ print(so.union(any))
 print(any.intersection(so))
 print(any.difference(so))
 print(so.difference(any))
-print(so.pop())'''
+print(so.pop())
 
 
 n = int(input('enter a pin'))
 det = {'name':"pavan","age":21,'pin' :9171}
-if n in det.values():print('correct pin')
+if n in det.values():print('correct pin')'''
+
+#for loop
 
 
 #task ---> counting vowels,consonants in sentences using loop
