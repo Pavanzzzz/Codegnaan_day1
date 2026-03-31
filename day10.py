@@ -37,10 +37,12 @@ print(b[::-1])
 '''
 a = "pavansai"
 b=""
+
 for i in range(len(a)-1,-1,-1):
     b += a[i]
 print(b)
 if a is b : print("palindrome")
 else: print("not")
-    
+
+
 
