@@ -21,8 +21,17 @@ List Comprehension:
 
 syntax
 -----
-        Variable_name = [ expression loop and addition]'''
+        Variable_name = [ expression loop and addition]
 
 old_list = [1,2,3,4,5]
 new_list = [j+1 for j in old_list if j%2==0]
 print(new_list)
+
+n = int(input("Enter number of rows: "))
+
+for i in range(1, n + 1):
+    print(" " * (n - i) + "*" * i)'''
+
+a = int(input())
+for i in range(1,a+1):
+    print('*'*i)
